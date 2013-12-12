@@ -1,0 +1,6 @@
+[submodule "modules/es5-compat-table"]
+	path = modules/es5-compat-table
+	url = https://github.com/kangax/es5-compat-table.git
+[submodule "modules/caniuse"]
+	path = modules/caniuse
+	url = https://github.com/Fyrd/caniuse.git
