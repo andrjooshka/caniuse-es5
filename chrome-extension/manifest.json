@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+
+    "name": "Caniuse.com and ES5-compat-table search",
+    "description": "Quickly access caniuse.com and ES5-compat-table",
+    "version": "1.0",
+
+    "permissions": [
+    ],
+    "browser_action": {
+        "default_icon": "html5-icon.png",
+        "default_popup": "popup.html"
+    }
+}
